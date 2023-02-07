@@ -16,3 +16,8 @@
 ## 画面
 
 <img src="./doc/images/screenshot.png" width="320">
+
+
+## 動画
+
+[![動画](https://img.youtube.com/vi/UyyNUo2ldM4/0.jpg)](https://www.youtube.com/watch?v=UyyNUo2ldM4)
