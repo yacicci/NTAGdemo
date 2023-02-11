@@ -21,3 +21,9 @@
 ## 動画
 
 [![動画](https://img.youtube.com/vi/UyyNUo2ldM4/0.jpg)](https://www.youtube.com/watch?v=UyyNUo2ldM4)
+
+
+## 動作確認
+
+- moto X4(Android 9)
+- Pixel 4a(Android 13)
