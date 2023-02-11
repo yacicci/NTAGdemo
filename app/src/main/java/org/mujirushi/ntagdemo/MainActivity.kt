@@ -202,7 +202,7 @@ class MainActivity : AppCompatActivity() {
             }
             catch (e: IOException) {
                 e.printStackTrace()
-                close()
+                //close()
             }
 
             findViewById<TextView>(R.id.status).text = "Waiting..."
