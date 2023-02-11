@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
         mPendingIntent = PendingIntent.getActivity(
             this, 0,
-            Intent(this, javaClass).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), 0
+            Intent(this, javaClass).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), PendingIntent.FLAG_MUTABLE
         )
 
         val ndef = IntentFilter(NfcAdapter.ACTION_NDEF_DISCOVERED)
